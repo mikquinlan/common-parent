@@ -74,7 +74,7 @@
     </dependency>
     <dependency>
       <groupId>log4j</groupId>
-      <artifactId>log4j-extras</artifactId>
+      <artifactId>apache-log4j-extras</artifactId>
       <version>${log4j-extras.version}</version>
     </dependency>
   </dependencies>
